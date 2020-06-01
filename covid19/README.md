@@ -1,11 +1,9 @@
-test to see what happens here
-[About this page](about.md)
+[About](about.md) [California](cali.md) [Alameda County](alameda.md) [Santa Clara County](sc_county.md)
 
-![render image](../data/total_alameda_status.png)
-# Retry readme
+## Introduction
 
 ok now what happens here
 
-## again
+## Motivation
 
 what are we doing here
