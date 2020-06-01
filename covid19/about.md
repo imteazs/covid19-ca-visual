@@ -1,4 +1,4 @@
-[Home](README.md) [California](cali.md) [Alameda](alameda.md) [Santa Clara](sc_county.md)   [About](about.md)
+[Home](README.md) [California](cali.md) [Alameda](alameda.md) [Santa Clara](sc_county.md)
 
 ### About Me
 
