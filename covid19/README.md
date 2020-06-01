@@ -2,8 +2,6 @@
 
 ## Introduction
 
-ok now what happens here
+
 
 ## Motivation
-
-what are we doing here
