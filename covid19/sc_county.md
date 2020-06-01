@@ -2,6 +2,6 @@
 
 Status of COVID-19 in Santa Clara County
 
-## Sars-COV2 Infections vs Deaths
+### Sars-COV2 Infections vs Deaths
 
 ![Santa Clara infection vs deaths](../data/total_scc_status.png)
