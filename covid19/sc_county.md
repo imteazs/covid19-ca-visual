@@ -1,4 +1,4 @@
-[Home](README.md) [California](cali.md) [Alameda](alameda.md) [Santa Clara](sc_county.md)
+[Home](README.md) [California](cali.md) [Alameda](alameda.md) [Santa Clara](sc_county.md)   [About](about.md)
 
 Status of COVID-19 in Santa Clara County
 
