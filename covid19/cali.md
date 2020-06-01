@@ -5,3 +5,7 @@ Status of COVID-19 in California
 ### Sars-COV2 Infections vs Deaths
 
 ![CA infection vs deaths](../data/total_ca_status.png)
+
+### ICU status
+
+![CA ICU Status](../data/ca_icu_status.png)

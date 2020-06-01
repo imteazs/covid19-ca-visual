@@ -5,3 +5,7 @@ Status of COVID-19 in Alameda County
 ### Sars-COV2 Infections vs Deaths
 
 ![Alameda infection vs deaths](../data/total_alameda_status.png)
+
+### ICU status
+
+![CA ICU Status](../data/alameda_icu_status.png)
